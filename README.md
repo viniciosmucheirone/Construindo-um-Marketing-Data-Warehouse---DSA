@@ -13,7 +13,7 @@ Projeto desenvolvido como parte do curso *Modelagem e Análise de Dados com Powe
 Foi verificada a performance da empresa com base nos seguintes indicadores: taxa de conversão por tipo de campanha, custo por plataforma, soma de ROI por ano e soma de cliques por ano.  
 Todos são essenciais para entender o retorno das ações de marketing e apoiar decisões mais estratégicas.
 
-<img src="/img/foto.jpg" alt="DashboardMarketing.PNG" width="300">
+![Dashboard Principal](/img/Dashboard%20Marketing.png)
 
 
 ---
